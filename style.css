@@ -110,6 +110,8 @@ body {
     height: auto;
     display: flex;
     background: #3b8d76;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 600;
 }
 .project-item a {
   display: flex;
